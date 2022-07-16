@@ -11,7 +11,7 @@
 const developer = {
   name: "Jacob",
   skills: ["HTMl", "CSS", "SASS", "Responsive Design", "Accessibility", "Version Control"],
-  learning: ["JavaScript", "React", "Restful APIs",  "Express", "MongoDB", "Node.js"],
+  learning: ["JavaScript"],
   interests: [
         'Drawing',
         'Watching Anime',
